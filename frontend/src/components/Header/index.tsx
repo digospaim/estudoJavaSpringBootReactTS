@@ -7,7 +7,7 @@ function Header() {
             <div className="dsmeta-logo-container">
                 <img src={logo} alt="LogoDSMeta" />
                 <h1>Sales Viewer</h1>
-                <p>Projeto desenvolvido em Spring Boot e React-TS</p>
+                <p>Projeto desenvolvido com Spring Boot e React-TS</p>
                 <p>
                     Desenvolvido por
                     <a href="https://www.instagram.com/digospaim">@digospaim</a>
